@@ -9,6 +9,7 @@ theme:
     accent: deep orange
 nav:
   - Visit Game: 'https://internationalgangsters.com'
+  - Home: '/'
   - FAQ: 'faq'
   - New Started Guide: 'new_starter_guide'
   - Making Money: 'making_money'
