@@ -1,0 +1,81 @@
+site_name: International Gangsters Wiki
+theme:
+  name: material
+  logo: https://cdn.internationalgangsters.com/icons/favicon.ico
+  favicon: https://cdn.internationalgangsters.com/icons/favicon.ico
+  palette:
+    scheme: slate
+    primary: blue
+    accent: deep orange
+nav:
+  - Visit Game: 'https://internationalgangsters.com'
+  - FAQ: 'faq'
+  - New Started Guide: 'new_starter_guide'
+  - Making Money: 'making_money'
+  - Information:
+    - Seasons: information/seasons
+    - Daily Rewards: information/daily_rewards
+    - Statistics: information/statistics
+    - Game Records: information/game_records
+    - Game Objectives: information/game_objectives
+    - Profile: information/profile
+    - Notepad: information/notepad
+    - Properties: information/properties
+    - My Properties: information/my_properties
+    - Helpdesk: information/helpdesk
+    - Users Online: information/users_online
+    - Promotional Codes: information/promotional_codes
+    - Latest News: information/latest_news
+  - Ranking:
+    - Crimes: ranking/crimes
+    - Jail: ranking/jail
+    - GTA: ranking/gta
+    - Repair: ranking/repair
+    - Missions: ranking/missions
+    - Heist: ranking/heist
+    - Organised Crime: ranking/organised_crime
+  - Messaging:
+    - Send Message: messaging/send_message
+    - Mailbox: messaging/mailbox
+    - Crew Forum: messaging/crew_forum
+    - Main Forum: messaging/main_forum
+    - Design Forum: messaging/design_forum
+    - Entertainment Forum: messaging/entertainment_forum
+  - Money:
+    - Bank: money/bank
+    - Points: money/points
+    - Quicktrade: money/quicktrade
+    - Stock Market: money/stock_market
+    - Betting Shop: money/betting_shop
+    - My Inventory: money/my_inventory
+    - Crates: money/crates
+    - Buy Cars: money/buy_cars
+    - Sell Cars: money/sell_cars
+    - Dice Game: money/dice_game
+    - Roulette: money/roulette
+    - Race Track: money/race_track
+    - Blackjack: money/blackjack
+    - Multidice Game: money/multidice_game
+    - Slot Machine: money/slot_machine
+    - Video Poker: money/video_poker
+  - Offence:
+    - Armoury: offence/armoury
+    - Gun Locker: offence/gun_locker
+    - Scrapyard: offence/scrapyard
+    - Hitlist: offence/hitlist
+    - Kill: offence/kill
+    - Dead > Alive: offence/dead_>_alive
+    - Airport: offence/airport
+    - Travel by Car: offence/travel_by_car
+    - Attempts: offence/attempts
+    - Witness Statements: offence/witness_statements
+  - Crews:
+    - Crews: crews/crews
+    - Member HQ: crews/member_hq
+    - Crew Rackets: crews/crew_rackets
+    - Crew Applications: crews/crew_applications
+    - Crew OC: crews/crew_oc
+    - Crew Message Members: crews/crew_message_members
+    - Member Management: crews/member_management
+    - Crew Management: crews/crew_management
+    - Crew War: crews/crew_war
