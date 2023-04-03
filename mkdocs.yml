@@ -1,5 +1,16 @@
 site_name: International Gangsters Wiki
+markdown_extensions:
+  - tables
+plugins:
+  - table-reader
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+extra_css:
+  - stylesheets/extra.css
 theme:
+  features:
+    - navigation.sections
   name: material
   logo: https://cdn.internationalgangsters.com/icons/favicon.ico
   favicon: https://cdn.internationalgangsters.com/icons/favicon.ico
