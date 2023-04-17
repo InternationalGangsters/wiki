@@ -1,1 +1,3 @@
 # Betting Shop
+
+Think you know your sports? You're going to love the betting shop! Our innovative system is event based, meaning that for example on a particular football match (Arsenal Vs Liverpool), you can bet on multiple bet types such as (but not limited to): First Goalscorer, Game Outcome, Correct scoreline, to more obscure things such as number of yellow cards the possibilities are endless. We czn set any bet type (Football, MMA, F1, Horse Racing & much more). If it has odds on betting sites, we can add it! With the system being event based and not topic/thread based like other games, this also enables us to limit the amount of clutter on the page.
