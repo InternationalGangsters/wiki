@@ -12,3 +12,9 @@ Weekly objectives are released every Friday at 8:30pm. These objectives can be c
 Seasonal objectives are released periodically and include three levels for each category. For example, there may be three levels of crime-related objectives that players can complete to earn rewards. There are no restrictions on the types of objectives that are included in the seasonal tasks. The rewards for completing objectives are random and not based on the level of difficulty.
 
 Players can view their progress towards completing objectives in real-time. There are no penalties for failing to complete an objective; players simply miss out on the associated rewards.
+
+## Lifetime Achievements 
+Lifetime Achievements are set in for each account you create, currenttly we have a bronze (lower tier), silver (middle) and gold (top tier) achievements.
+these include things such as Commiting crimes, Killing Users, Melting bullets and even reach out to betting shop profits + Stock market profits.
+*these are subject to change at any time*
+
