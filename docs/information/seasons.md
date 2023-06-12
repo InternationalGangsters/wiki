@@ -10,9 +10,8 @@ Players who complete the season will receive rewards for each season rank they a
 ## Performance
 Player performance during the season is measured by the amount of season XP they earn. The more season XP a player earns, the higher their rank will be at the end of the season.
 
-Season XP:
+## Season XP
 You gain Season XP just by playing the game organically, you can also receive season xp via crates + occasional entertainment forum games hosted by an admin. 
-
 
 ## VIP/VIP+ MEMBERSHIPS
 Seasons come with two paid memberships; Firstly, you can purchase VIP for £9.99; this will give you access to 50 levels of rewards, secondly you can purchase VIP+ for £19.99 which will give you a HUGE 100 levels of season rewards to earn!
