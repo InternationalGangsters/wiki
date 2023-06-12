@@ -62,8 +62,8 @@ This is where you'll need to make a decision for yourself on how you approach th
     <img width="88%" src="https://i.imgur.com/2IHWWQj.png">
 </p>
 
-- Players **without VIP** will recieve the Tier rewards in the Yellow box up to tier 10.
-- Players **with VIP** will recieve the level rewards from 1-50 which are shown in the Blue box aswell as the Yellow tier rewards.
+- Players **without VIP** will receive the Tier rewards in the Yellow box up to tier 10.
+- Players **with VIP** will receive the level rewards from 1-50 which are shown in the Blue box aswell as the Yellow tier rewards.
 - Players **with VIP+** will continue from level 51 all the way through to 100.
 
 Again, you'll need to make your own decision on what is the best option for you but the VIP+ plan will offer you the best value for money with the Point rewards.
@@ -77,7 +77,7 @@ As a strict rule of thumb, you want to be doing everything you can inside the 'R
     <img width="50%" src="https://i.imgur.com/R3fu9dp.png">
 </p>
 
-- **Crimes** | Stay on top of keeping them commmitted to rank up and earn money if you don't have Autorank running.
+- **Crimes** | Stay on top of committing them to rank up and earn money if you don't have Autorank running.
 - **Jail** | Busting will give you some small income depending on reward of the bust. They're a bit difficult at the start but have patience with them.
 - **GTA** | You'll need to be doing this to complete your missions and it gives XP.
 - **Repair** | Gives you a small bit of XP for repairing vehicles. Some missions require you to repair a certain type of vehicle too so keep an eye on that. You can make profit on selling cars too, damage or repaired so it's something to think about.
