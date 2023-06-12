@@ -10,7 +10,11 @@ Players who complete the season will receive rewards for each season rank they a
 ## Performance
 Player performance during the season is measured by the amount of season XP they earn. The more season XP a player earns, the higher their rank will be at the end of the season.
 
-## VIP/Free Membership
-Seasons offers both VIP and Free membership options. Players who upgrade to VIP membership receive extra rewards compared to the Free membership option. Free members receive one reward at each tier, while VIP members receive multiple rewards at each tier.
+## Season XP
+You gain Season XP just by playing the game organically, you can also receive season xp via crates + occasional entertainment forum games hosted by an admin. 
 
-VIP membership costs £9.99 per season.
+## VIP/VIP+ MEMBERSHIPS
+Seasons come with two paid memberships; Firstly, you can purchase VIP for £9.99; this will give you access to 50 levels of rewards, secondly you can purchase VIP+ for £19.99 which will give you a HUGE 100 levels of season rewards to earn!
+
+## Free Membership:
+By default, you have access to free rewards by just playing the game... at every tier you will receive various rewards ranging from perks/cash to crates and points!
