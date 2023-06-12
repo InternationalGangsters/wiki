@@ -1,3 +1,7 @@
 # Crew Rackets
 
-A simple concept, crew members produce upto 3 items every hour. (Drugs, Counterfeit Cash, Weapons) when they do so they will receive a reward from the crew bank. Then at the crew bosses discretion, they can sell these items on. The prices they can sell them for alternate every hour. There is a limit on the amount of items a crew can have in storage at any one time, as well as a limitation that if there isn't enough money in the crew bank to cover the crew members rewards, production will be stopped. This creates the potential for moral dilemmas as a crew boss. Do you sacrifice to enable your crew members to continue to produce and earn cash, OR do you stay strong and wait until the prices are profitable for you to sell.
+Crew members can produce 3 racket items every hour these are Drugs, Counterfeit Cash and Weapons. Producing these will earn them money from the crew bank.
+
+Prices the crew boss can sell these for a profit change every hour so you need to be quick to maximise your profit. 
+
+Limits on the number of racket produce a crew can hold in storage at one time may force a crew to sell their produce at a less than ideal price to make sure they can continue paying crew members otherwise production will be halted.
