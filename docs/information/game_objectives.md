@@ -14,7 +14,7 @@ Seasonal objectives are released periodically and include three levels for each 
 Players can view their progress towards completing objectives in real-time. There are no penalties for failing to complete an objective; players simply miss out on the associated rewards.
 
 ## Lifetime Achievements 
-Lifetime Achievements are set in for each account you create, currenttly we have a bronze(lower tier), Silver(middle) and gold (top tier) achievements.
+Lifetime Achievements are set in for each account you create, currenttly we have a bronze (lower tier), silver (middle) and gold (top tier) achievements.
 these include things such as Commiting crimes, Killing Users, Melting bullets and even reach out to betting shop profits + Stock market profits.
 *these are subject to change at any time*
 
