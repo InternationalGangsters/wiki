@@ -72,6 +72,7 @@ nav:
     - Multidice Game: money/multidice_game
     - Slot Machine: money/slot_machine
     - Video Poker: money/video_poker
+    - Crack The Safe: money/crack_the_safe
   - Offence:
     - Armoury: offence/armoury
     - Gun Locker: offence/gun_locker
