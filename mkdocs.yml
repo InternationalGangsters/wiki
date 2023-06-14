@@ -59,6 +59,7 @@ nav:
     - Bank: money/bank
     - Points: money/points
     - Quicktrade: money/quicktrade
+    - Drug Trade: money/drug_trade
     - Stock Market: money/stock_market
     - Betting Shop: money/betting_shop
     - My Inventory: money/my_inventory
