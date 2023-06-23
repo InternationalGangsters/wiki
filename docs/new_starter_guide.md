@@ -1,6 +1,6 @@
 # Two's New Starter Guide - Season 3
 
-Stopped playing those other Mafia games (we don't talk about them) which give you no content and finally upgraded? Slightly overwhelmed with all the new features and have no idea where to start? **Don’t worry, I’ve got you.**
+Are you slightly overwhelmed with all the new features and have no idea where to start? **Don’t worry, I’ve got you.**
 
 The game is ever evolving so this document will keep changing as the new seasons land but for Season 3.. if I were you, this is where I’d start:
 
@@ -13,7 +13,7 @@ The mission map looks like this, **the different districts will require you to c
     <img width="88%" src="https://i.imgur.com/AqqdNwI.png">
 </p>
 
-As you continue to work your way through the map, these Empire Rewards will start to stack up. The more districts you complete, the higher the Empire value will be which you could sell for Points but I'm not sure I'd recommend that at this point as the daily income is so handy.
+As you continue to work your way through the map, these Empire Rewards will start to stack up. The more districts you complete, the higher the Empire value will be which you could sell for Points but I'm not sure I'd recommend that at this point as the daily income is so handy. Once you've sold your Empire, you're unable to start again and that will be you done with missions for the current Season!
 
 I've completed 17 Districts in total so far and these are the daily Empire rewards I get currently along with the Point price my Empire is worth.
 
@@ -29,7 +29,7 @@ This takes us nicely onto the second point I've got for you.
 
 ## 2) Autorank Perk
 
-There is a very slim chance that you've NEVER played one of these games before, but if you haven't and this is your first time then Hey and welcome o/ 
+There is a very slim chance that you've NEVER played one of these games before, but if you haven't and this is your first time then Hey and welcome 👋
 ..if not then you'll know that these games can be time consuming right with all the crimes, GTAs, and Heists and everything else which you need to click while trying to fit that in around your actual life!? 
 
 How on earth are you ever going to find the time do everything this game has to offer?
