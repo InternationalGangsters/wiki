@@ -80,6 +80,7 @@ nav:
     - Scrapyard: offence/scrapyard
     - Hitlist: offence/hitlist
     - Kill: offence/kill
+    - Battle Arena: offence/battle_arena
     - Dead > Alive: offence/dead_>_alive
     - Airport: offence/airport
     - Travel by Car: offence/travel_by_car
