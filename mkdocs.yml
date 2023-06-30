@@ -81,7 +81,7 @@ nav:
     - Hitlist: offence/hitlist
     - Kill: offence/kill
     - Battle Arena: offence/battle_arena
-    - Dead > Alive: offence/dead_>_alive
+    - Dead > Alive: offence/dead_alive
     - Airport: offence/airport
     - Travel by Car: offence/travel_by_car
     - Attempts: offence/attempts
