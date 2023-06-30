@@ -21,3 +21,8 @@ The crates screen consists of 4 different crate types:
     <img width="66%" src="https://i.imgur.com/CmUUKiU.png">
 </p
 </div>
+
+1
+2
+3
+4
