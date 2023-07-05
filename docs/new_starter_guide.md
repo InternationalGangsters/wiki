@@ -85,7 +85,17 @@ As a strict rule of thumb, you want to be doing everything you can inside the 'R
 - **Heist** | The best way to rank for XP but it has a 2 hour cool down, 1 hour cool down if you have the perk on, but make sure you do them as much as you can. Also inside missisons so... yeah. Keep an eye on what your requirements are.
 - **Organised Crime** | Click it, it'll add you to a queue and it'll commit when it's found 4 people who are waiting. None of that funny business of messaging half the game to find people.
 
-## <div align="left">More Coming Soon</div>
+## 5) Civilian Protection
+
+When you load into the game, you'll be placed under protection which basically exists to let you get to grips with the game first without being blast into oblivion by a more experienced player. I'd suggest on taking full advantage of this while you're learning about all the new features we offer but there are certain rules which you must play within.
+
+Performing any of the below will make you killable:
+
+<p align="center" width="100%">
+    <img width="88%" src="https://i.imgur.com/iv6525x.png">
+</p>
+
+You'll find the button at the bottom of the page which will allow you to terminate it without needing to break one of the rules
 
 
 
