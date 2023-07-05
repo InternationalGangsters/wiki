@@ -10,11 +10,22 @@ The crates screen consists of 4 different crate types:
 | Rare | Second tier of crate |
 | Epic | Third tier of crate |
 | Legendary | Highest tier of crate |
+</div>
 
-  <p align="center" width="100%">
-    <img width="88%" src="https://i.imgur.com/LBjMx43.png">
+<p align="center" width="100%">
+    <img width="30%" src="https://i.imgur.com/LBjMx43.png">
 </p>
 
   <p align="center" width="100%">
     <img width="66%" src="https://i.imgur.com/CmUUKiU.png">
-</p>
+  </p>
+  
+## Crate Rewards
+
+  <p align="center" width="100%">
+    <img width="77%" src="https://i.imgur.com/3rmbnhY.png">
+  </p>
+
+  <p align="center" width="100%">
+    <img width="77%" src="https://i.imgur.com/mpLmqJ3.png">
+  </p>
