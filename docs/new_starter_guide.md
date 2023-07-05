@@ -9,7 +9,7 @@ Missions are hands down the most important thing to get the ball rolling on. The
 
 The mission map looks like this, **the different districts will require you to complete 3 tasks** for your daily Empire Reward. As you can see in the screenshot below, Greenwich requires you to **steal 8 cars, repair 12 rares and buy 62,794 bullets** which in return will reward you with **2 Autorank perks.**
 
-<p align="center" width="100%">
+<p align="left" width="100%">
     <img width="88%" src="https://i.imgur.com/AqqdNwI.png">
 </p>
 
@@ -17,7 +17,7 @@ As you continue to work your way through the map, these Empire Rewards will star
 
 I've completed 17 Districts in total so far and these are the daily Empire rewards I get currently along with the Point price my Empire is worth.
 
-<p align="center" width="100%">
+<p align="left" width="100%">
     <img width="88%" src="https://i.imgur.com/5maQ6go.png">
 </p>
 
@@ -44,7 +44,7 @@ How on earth are you ever going to find the time do everything this game has to 
 
 Your perks can be found in the **'My Inventory'** page and it'll look something like this:
 
-<p align="center" width="100%">
+<p align="left" width="100%">
     <img width="50%" src="https://i.imgur.com/wmjucJF.png">
 </p>
 
@@ -58,7 +58,7 @@ If you've never played Fortnite or Call of Duty or any other huge title then you
 
 This is where you'll need to make a decision for yourself on how you approach this as there are some different options with the Seasons feature.
 
-<p align="center" width="100%">
+<p align="left" width="100%">
     <img width="88%" src="https://i.imgur.com/2IHWWQj.png">
 </p>
 
@@ -73,7 +73,7 @@ Level 47 and Level 50 in the screenshot for example reward you with 15,000 point
 
 As a strict rule of thumb, you want to be doing everything you can inside the 'Ranking' panel you'll see whether you're on PC or mobile.
 
-<p align="center" width="100%">
+<p align="left" width="100%">
     <img width="50%" src="https://i.imgur.com/R3fu9dp.png">
 </p>
 
