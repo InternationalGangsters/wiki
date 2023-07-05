@@ -12,7 +12,7 @@ If you've got Autorank Perks, chuck them on to get the most of out Crimes/GTAs a
 
 Completing the Missions will increase your daily Empire rewards.
 
-<p align="center" width="100%">
+<p align="left" width="100%">
     <img width="88%" src="https://i.imgur.com/5maQ6go.png">
 </p>
 
@@ -22,7 +22,7 @@ The bottom left hand side table in the screenshot above shows how much passive i
 
 In order to complete your Empire, some of the Missions will require you to repair cars. This has encouraged more people to start selling their cars as users want to complete their Missions faster.
 
-<p align="center" width="100%">
+<p align="left" width="100%">
     <img width="44%" src="https://i.imgur.com/XTdyh7B.png">
 </p>
 
@@ -40,13 +40,13 @@ The riskier methods! 👀
 
 Slots.. $1b max bet with a potential of 100x as a pay out? Definitely worth a punt if you ask me....
 
-<p align="center" width="100%">
+<p align="left" width="100%">
     <img width="44%" src="https://i.imgur.com/xpveyJW.png">
 </p>
 
 The second way I'd suggest but again, risky! Holding property's isn't proven to make you money but if you're able to buy one then give it a shot as making a bit of profit this way!
 
-<p align="center" width="100%">
+<p align="left" width="100%">
     <img width="88%" src="https://i.imgur.com/kciLgxZ.png">
 </p>
 

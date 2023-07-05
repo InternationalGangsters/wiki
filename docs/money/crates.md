@@ -4,12 +4,10 @@ Here you can open your crates to receive a set reward from the pool of rewards a
 
 The crates screen consists of 4 different crate types:
 
-<div align="center">
-  
-| Crates   |      Crate Tiers      |
-|:----------:|:-------------:|
-| Common |  First tiwer of crate |
-| Rare |    Second tier of crate   |
+| Name | Description |
+|---|---|
+| Common | First tiwer of crate |
+| Rare | Second tier of crate |
 | Epic | Third tier of crate |
 | Legendary | Highest tier of crate |
 </div>
