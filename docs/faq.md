@@ -1,7 +1,9 @@
 # FAQ
 
 Welcome to the Frequently Asked Questions (FAQ) section for our Game below you will find some of the more common questions we hear;<br>
+
 Is scripting a bannable offense? – In short Yes, scripting features such as casinos/Kill pages is a bannable offence. <br>
+
 What is VIP & VIP+? – These are different levels of access to the seasons, both purchasable VIP will give you access to 50 Individual rewards for simply playing the game while VIP+ Takes it a step further and gives you access to 100 levels to work your way through! <br>
 
 What is “Auto-rank”? – Brand new with the launch of Season 3 is a new perk which will basically script your account for you legally, meaning you avoid the risk of being banned, these are attainable via the points page or via giveaways in the entertainment forum.
