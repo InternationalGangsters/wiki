@@ -22,6 +22,7 @@ nav:
   - Visit Game: 'https://internationalgangsters.com'
   - Home: '../'
   - FAQ: 'faq'
+  - Season 4: 'season_4'
   - New Starter Guide: 'new_starter_guide'
   - Making Money: 'making_money'
   - Game Rules: 'game_rules'
@@ -47,7 +48,6 @@ nav:
     - Repair: ranking/repair
     - Missions: ranking/missions
     - Heist: ranking/heist
-    - Organised Crime: ranking/organised_crime
   - Messaging:
     - Send Message: messaging/send_message
     - Mailbox: messaging/mailbox
