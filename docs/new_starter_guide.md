@@ -73,17 +73,12 @@ Level 47 and Level 50 in the screenshot for example reward you with 15,000 point
 
 As a strict rule of thumb, you want to be doing everything you can inside the 'Ranking' panel you'll see whether you're on PC or mobile.
 
-<p align="left" width="100%">
-    <img width="50%" src="https://i.imgur.com/R3fu9dp.png">
-</p>
-
 - **Crimes** | Stay on top of committing them to rank up and earn money if you don't have Autorank running.
 - **Jail** | Busting will give you some small income depending on reward of the bust. They're a bit difficult at the start but have patience with them.
 - **GTA** | You'll need to be doing this to complete your missions and it gives XP.
 - **Repair** | Gives you a small bit of XP for repairing vehicles. Some missions require you to repair a certain type of vehicle too so keep an eye on that. You can make profit on selling cars too, damage or repaired so it's something to think about.
 - **Missions** | Biggest priority for me, above everything else really.
 - **Heist** | The best way to rank for XP but it has a 2 hour cool down, 1 hour cool down if you have the perk on, but make sure you do them as much as you can. Also inside missisons so... yeah. Keep an eye on what your requirements are.
-- **Organised Crime** | Click it, it'll add you to a queue and it'll commit when it's found 4 people who are waiting. None of that funny business of messaging half the game to find people.
 
 ## 5) Civilian Protection
 
