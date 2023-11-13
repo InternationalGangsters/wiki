@@ -4,6 +4,4 @@ The Latest News feature can be useful for players who want to stay informed abou
 
 The Latest News feature also allows for guest articles to be submitted. Anyone is welcome to submit an article for consideration.
 
-# Stock Market
-
-The Stock Market feature is for players who love to invest on Crypto & Forex. By using the live data you can buy/sell on Bitcoins, Ethereum and more. Investing by points can be risky.  There are also limits on how many shares you can hold & cooldowns after buying/selling.
+The news page also has the Stock Market that gets updated by Live data which players can view changes easily.
