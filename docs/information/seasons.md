@@ -4,6 +4,8 @@ Seasons is a new ranking system that has been introduced to the game. Each seaso
 
 At the end of the season, all season XP progress is reset, and a new season begins. Players who earned a high amount of season XP during the season are eligible for rewards, which vary based on their season rank.
 
+<b>* Please Note: The VIP memberships only last for the season and will require an additional membership for the following season.</b>
+
 ## Rewards
 Players who complete the season will receive rewards for each season rank they achieve. Additionally, players can earn rewards by completing tasks during the season. The rewards for completing tasks vary based on the task difficulty.
 
