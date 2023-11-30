@@ -19,3 +19,5 @@ If you own the scrapyard you will be able to control prices/stock here also, adj
 </p>
 
 You can also fill the scrapyard up with more stock as the people melting in your location will contribute to the amount of bullets you have.
+
+Scrapyard Production and limits has been doubled.
