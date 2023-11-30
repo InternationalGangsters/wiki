@@ -7,3 +7,5 @@ Interest bank allows you to deposit money and accrue a set % of interest after a
 Swiss Bank is a safe way to store your wealth, it is retrievable if you die. It doesn't accrue any interest and there are limits on how much money you can hold at any one time.
 
 You can also send cash to other players using this page.
+
+Swiss Bank limit has been raised to $500bn.
