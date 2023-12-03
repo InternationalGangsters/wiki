@@ -6,4 +6,3 @@ You get 25 spins a day at your chosen amount, after that you must pay $2.5bn per
 
 Any losses you make on the slot machine are removed from the game and go in to the game bank where staff can use this for giveaways.
 
-Slots Max Bet has increased to $2.5bn.
