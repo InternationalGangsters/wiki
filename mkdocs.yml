@@ -66,6 +66,7 @@ nav:
     - Crates: money/crates
     - Buy Cars: money/buy_cars
     - Sell Cars: money/sell_cars
+    - Formula 1: money/f1
     - Dice Game: money/dice_game
     - Roulette: money/roulette
     - Race Track: money/race_track
