@@ -8,7 +8,7 @@ Welcome to the International Gangsters Wiki, International Gangsters was created
 
 The objective of the game is easy, Progress through the ranks from Hobo to International Gangster and generate as much wealth as possible. On this page you will find some information to help you through this process.
 
-## Introducing Season Four
+## Introducing Season Five
  
 Welcome to the United States of America!
  

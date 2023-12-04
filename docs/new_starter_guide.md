@@ -1,8 +1,8 @@
-# Two's New Starter Guide - Season 3
+# Two's New Starter Guide
 
 Are you slightly overwhelmed with all the new features and have no idea where to start? **Don’t worry, I’ve got you.**
 
-The game is ever evolving so this document will keep changing as the new seasons land but for Season 3.. if I were you, this is where I’d start:
+The game is ever evolving so this document will keep changing as the new seasons land but if I were you, this is where I’d start:
 
 ## 1) Missions
 Missions are hands down the most important thing to get the ball rolling on. The concept of missions is to build and grow your own Empire which will reward you daily for your hard work. 
