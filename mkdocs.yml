@@ -41,6 +41,7 @@ nav:
     - Helpdesk: information/helpdesk
     - Users Online: information/users_online
     - Promotional Codes: information/promotional_codes
+    - Raffles: information/raffles
     - Latest News: information/latest_news
   - Ranking:
     - Crimes: ranking/crimes
@@ -73,7 +74,6 @@ nav:
     - Race Track: money/race_track
     - Blackjack: money/blackjack
     - Multidice Game: money/multidice_game
-    - Slot Machine: money/slot_machine
     - Video Poker: money/video_poker
     - Crack The Safe: money/crack_the_safe
   - Offence:
