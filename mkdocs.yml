@@ -41,7 +41,7 @@ nav:
     - Helpdesk: information/helpdesk
     - Users Online: information/users_online
     - Promotional Codes: information/promotional_codes
-    - Raffles: information/raffle
+    - Raffles: information/raffles
     - Latest News: information/latest_news
   - Ranking:
     - Crimes: ranking/crimes
