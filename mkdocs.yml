@@ -22,12 +22,10 @@ nav:
   - Visit Game: 'https://internationalgangsters.com'
   - Home: '../'
   - FAQ: 'faq'
-  - Season 4: 'season_4'
-  - Season 5: 'season_5'
   - New Starter Guide: 'new_starter_guide'
   - Making Money: 'making_money'
   - Game Rules: 'game_rules'
-  - Update Log: 'update_log'
+  #- Update Log: 'update_log'
   - Information:
     - Seasons: information/seasons
     - Daily Rewards: information/daily_rewards
