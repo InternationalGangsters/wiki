@@ -1,4 +1,4 @@
-## Drug Trade
+## Supply Running
 
 INFORMATION
 1.Choose the drug you want to sell & pay the startup cost.
