@@ -27,20 +27,22 @@ nav:
   - Game Rules: 'game_rules'
   #- Update Log: 'update_log'
   - Information:
-    - Seasons: information/seasons
+    - Dashboard / Inventory: information/dashboard
     - Daily Rewards: information/daily_rewards
+    - Seasons: information/seasons
     - Statistics: information/statistics
     - Game Records: information/game_records
     - Game Objectives: information/game_objectives
-    - Profile: information/profile
+    - Edit Profile: information/profile
     - Notepad: information/notepad
+    - Verify Email: information/verify_email
     - Properties: information/properties
     - My Properties: information/my_properties
-    - Helpdesk: information/helpdesk
     - Users Online: information/users_online
+    - Helpdesk: information/helpdesk
     - Promotional Codes: information/promotional_codes
-    - Raffles: information/raffles
-    - Latest News: information/latest_news
+    - Dynamic Events: information/dynamic_events
+    - Civilian Protection: information/civilian_protection
   - Ranking:
     - Crimes: ranking/crimes
     - Jail: ranking/jail
@@ -48,9 +50,10 @@ nav:
     - Repair: ranking/repair
     - Missions: ranking/missions
     - Heist: ranking/heist
+    - Organised Crime: ranking/organised_crime
   - Messaging:
-    - Send Message: messaging/send_message
-    - Mailbox: messaging/mailbox
+    - Notifications: messaging/notifications
+    - Messages: messaging/messages
     - Crew Forum: messaging/crew_forum
     - Main Forum: messaging/main_forum
     - Design Forum: messaging/design_forum
@@ -58,41 +61,41 @@ nav:
   - Money:
     - Bank: money/bank
     - Points: money/points
+    - IG Coin Store: money/coin_store
     - Quicktrade: money/quicktrade
-    - Drug Trade: money/drug_trade
     - Stock Market: money/stock_market
-    - Betting Shop: money/betting_shop
-    - My Inventory: money/my_inventory
-    - Crates: money/crates
+    - Supply Running: money/supply_running
+    - Real Estate: money/real_estate
     - Buy Cars: money/buy_cars
     - Sell Cars: money/sell_cars
-    - Formula 1: money/f1
-    - Dice Game: money/dice_game
-    - Roulette: money/roulette
-    - Race Track: money/race_track
-    - Blackjack: money/blackjack
-    - Multidice Game: money/multidice_game
-    - Video Poker: money/video_poker
-    - Crack The Safe: money/crack_the_safe
+  - Gambling:
+    - Betting Shop: gambling/betting_shop
+    - Lottery / Weekly Dice: gambling/weekly_dice
+    - Raffles: gambling/raffles
+    - Multidice Game: gambling/multidice_game
+    - Blackjack: gambling/blackjack
+    - Dice Game: gambling/dice_game
+    - Racetrack: gambling/race_track
+    - Roulette: gambling/roulette
+    - Slot Machine: gambling/slot_machine
+    - Video Poker: gambling/video_poker
+    - Crack The Safe: gambling/crack_the_safe
+    - Scratchcards: gambling/scratch_cards
+    - Packs: gambling/packs
   - Offence:
     - Armoury: offence/armoury
-    - Gun Locker: offence/gun_locker
     - Scrapyard: offence/scrapyard
     - Hitlist: offence/hitlist
     - Kill: offence/kill
-    - Battle Arena: offence/battle_arena
     - Dead > Alive: offence/dead_alive
-    - Airport: offence/airport
-    - Travel by Car: offence/travel_by_car
+    - Travel: offence/travel
     - Attempts: offence/attempts
     - Witness Statements: offence/witness_statements
   - Crews:
     - Crews: crews/crews
     - Member HQ: crews/member_hq
-    - Crew Rackets: crews/crew_rackets
     - Crew Applications: crews/crew_applications
     - Crew OC: crews/crew_oc
-    - Crew Message Members: crews/crew_message_members
     - Member Management: crews/member_management
     - Crew Management: crews/crew_management
-    - Crew War: crews/crew_war
+    - State Management: crews/state_management
