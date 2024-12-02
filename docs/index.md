@@ -1,7 +1,7 @@
 # Welcome
 
 <p align="center" width="100%">
-<video width="88%" height="100%" autoplay="" loop="" muted="" style="object-fit: cover; opacity: 0.9; filter: grayscale(100%);">
+<video width="88%" height="100%" autoplay="" controls="controls" loop="" muted="muted" style="object-fit: cover; opacity: 0.9; filter: grayscale(100%);">
           <source src="https://cdn.internationalgangsters.com/server2/indexvid.mp4" type="video/mp4">
               Your browser does not support the video tag.              
   </video>
